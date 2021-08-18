@@ -1,0 +1,9 @@
+[
+    { "ID":"1",
+    "Name": "Nikjai",
+    "Email": "nikjai@gmail.com",
+    "Rolln": "83",
+    "Department": "IT",
+    "Action":"Edit"
+    }
+]

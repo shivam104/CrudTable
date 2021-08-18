@@ -1,0 +1,24 @@
+.modal-header{
+    background-color:#afddde75;
+}
+.modal-footer{
+    background-color:#d8dde245;
+}
+
+#tableclass{
+    margin-top: 80px;
+    margin-left: 100px;
+}
+#btn{
+    margin-top: 20px;
+    margin-left: 101px;
+}
+.error{
+    color:red;
+}
+#table_body{
+    text-align:center;
+}
+#table_head{
+    text-align:center;
+}
